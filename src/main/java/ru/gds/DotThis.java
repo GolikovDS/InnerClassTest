@@ -1,10 +1,6 @@
 package ru.gds;
 
-import java.util.Iterator;
 
-/**
- * Created by Дмитрий on 05.09.2016.
- */
 public class DotThis {
 
     void f() {
@@ -21,6 +17,11 @@ public class DotThis {
     public class inner2{
         public void say(){
             System.out.println("Inner say gav");
+            System.out.println("sd");
+            System.out.println("sd");
+            System.out.println("sd");
+            System.out.println("sd");
+
         }
     }
 
